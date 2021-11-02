@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982413440773",
+    "project_id": "suisinbesquare",
+    "storage_bucket": "suisinbesquare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982413440773:android:f081b3183bea7c12fd296c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connection_besquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982413440773-hl0poeodr3p3invourakqp0gfvv2897a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC13W9kANIhUhyZuYAmkErAHZbKbx33Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982413440773-hl0poeodr3p3invourakqp0gfvv2897a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
